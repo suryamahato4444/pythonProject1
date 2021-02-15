@@ -1,4 +1,4 @@
-a = 44
-b = 22
-c = a =+ b
-print(c)
+length = float(input("Enter the value of length :"))
+breadth = float(input("Enter the value of breadth: "))
+area = 1/2 *(length * breadth)
+print("The area of given tringle is ",area,"cm square")
